@@ -172,3 +172,6 @@ Use these addresses to interact with your locally deployed contracts.
 - Also dependent on accurate {Token} / USD prices being accurate, and greater than 0
 - Dependent on `collateralRate` being greater than 0. This value is managed in our administrative SmartVaultManager contract, and the project is dependent on that value being correct
 - `LiquidationPool` requires EUROs `BURNER_ROLE` permission, but this is an important function of the Liquidation Pool
+
+**Additional Issues**
+- Issues caught by Aderyn [here](https://github.com/Cyfrin/2023-12-the-standard/issues/1)
