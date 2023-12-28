@@ -43,10 +43,10 @@ Secure your crypto assets, such as ETH, WBTC, ARB, LINK, & PAXG tokenized gold, 
 
 All contracts at commit `7c9f84772eacb588c00a2add9f46aa93211a7132`
 
-- [SmartVaultV3](https://github.com/the-standard/cyfrin-audit/blob/7c9f84772eacb588c00a2add9f46aa93211a7132/contracts/SmartVaultV3.sol)
-- [SmartVaultManagerV5](https://github.com/the-standard/cyfrin-audit/blob/7c9f84772eacb588c00a2add9f46aa93211a7132/contracts/SmartVaultManagerV5.sol)
-- [LiquidationPool](https://github.com/the-standard/cyfrin-audit/blob/7c9f84772eacb588c00a2add9f46aa93211a7132/contracts/LiquidationPool.sol)
-- [LiquidationPoolManager](https://github.com/the-standard/cyfrin-audit/blob/7c9f84772eacb588c00a2add9f46aa93211a7132/contracts/LiquidationPoolManager.sol)
+- [SmartVaultV3]
+- [SmartVaultManagerV5]
+- [LiquidationPool]
+- [LiquidationPoolManager]
 
 ## Compatibilities
 
