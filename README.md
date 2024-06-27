@@ -1,10 +1,6 @@
 # The Standard
 
-<br/>
-<p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="500" alt="Ditto">
-</p>
-<br/>
+[//]: # (contest-details-open)
 
 ## Contest Details
 
@@ -38,6 +34,8 @@ Secure your crypto assets, such as ETH, WBTC, ARB, LINK, & PAXG tokenized gold, 
 - **Stakers**: users adding TST and/or EUROs to the Liquidation Pool, in order to gain rewards from borrowing fees and vault liquidations
 
 - **Liquidation Pool Manager**: contract managing liquidations and distribution of borrowing fees in the pool
+
+[//]: # (scope-open)
 
 ## Scope (contracts)
 
@@ -86,7 +84,11 @@ Compatibilities:
       - ETH
 ```
 
-## Setup
+[//]: # (scope-close)
+
+[//]: # (getting-started-open)
+
+## Getting Started
 
 This project uses Hardhat.
 
@@ -127,6 +129,10 @@ User 0x... minted with 1000 test USDs
 ```
 
 Use these addresses to interact with your locally deployed contracts.
+
+[//]: # (getting-started-close)
+
+[//]: # (known-issues-open)
 
 ## Known Issues
 
@@ -175,3 +181,5 @@ Use these addresses to interact with your locally deployed contracts.
 
 **Additional Issues**
 - Issues caught by Aderyn [here](https://github.com/Cyfrin/2023-12-the-standard/issues/1)
+
+[//]: # (known-issues-close)
