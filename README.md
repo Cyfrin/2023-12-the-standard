@@ -1,7 +1,5 @@
 # The Standard
 
-[//]: # (contest-details-open)
-
 ## Contest Details
 
 - Total Prize Pool:
@@ -16,6 +14,8 @@
 - Complexity Score: 698
 - Dollars per Complexity: $28.65
 - Dollars per nSLOC: $32.84
+
+[//]: # (contest-details-open)
 
 ## About the Project
 
